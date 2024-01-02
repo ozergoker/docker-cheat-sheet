@@ -1,5 +1,6 @@
 # Docker Cheat Sheet
 
+![image](https://github.com/ozergoker/docker-cheat-sheet/blob/main/docker.webp)
 
 
 # What is Docker ?
